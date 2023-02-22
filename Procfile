@@ -1,0 +1,1 @@
+web: gunicorn WebCopier.wsgi --log-file -
